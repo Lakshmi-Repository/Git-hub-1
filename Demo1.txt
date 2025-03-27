@@ -1,1 +1,2 @@
 MY first git file
+made some changes to check
